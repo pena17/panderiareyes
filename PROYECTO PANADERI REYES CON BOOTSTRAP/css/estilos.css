@@ -1,0 +1,85 @@
+#body{
+    font-family: 'Ubuntu', sans-serif
+}
+#menu{
+    color: rgb(247, 228, 181);
+    font-size: 1.5em;
+    margin-right: 100px;
+}
+
+#herobox2{
+    height: 100vh;
+    min-height: 50vh;
+    background-image: url(../img/bakery.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 80%;
+}
+
+#herocontent{
+    max-width: 30rem;
+}
+
+
+#titulo{
+    font-family: 'Dancing script', cursive;
+    text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
+    font-size: 6em;
+}
+
+#subtitulo-ss{
+    font-family: 'Merriweather', serif;
+    color: rgb(221, 186, 96);
+    font-size: 1.8em;
+}
+
+#historia{
+    color: rgb(221, 186, 96);
+    font-family: 'Dancing script', cursive;
+    font-size: 5em;
+}
+
+#contacto{
+    color: rgb(255, 255, 255);
+    font-family: 'Dancing script', cursive;
+    font-size: 5em;
+    text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
+}
+
+#titulo-ss{
+    font-family: 'Merriweather', serif;
+    color: rgb(221, 186, 96);
+    font-size: 3em;
+}
+
+#formulario{
+    height: 100vh;
+    min-height: 50vh;
+    background-image: url(../img/form.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 60%;
+}
+
+#btn{
+    border-radius: 50px;
+    width: 8rem;
+    height: 2rem;
+    border-color: rgb(255, 255, 255);
+    background-color: transparent;
+    border-width: 3px;
+}
+
+
+
+#heroboxhis{
+    height: 70vh;
+    min-height: 50vh;
+    background-image: url(../img/herohis.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 80%;
+}
